@@ -3,6 +3,7 @@ This repository contains the code used for the paper As Easy as 1, 2, 3: Behavio
 
 # Citing
 
+```
 @inproceedings{Wang2021ACLFinding,
   author    = {Jun Wang and
                Chang Xu and
@@ -24,3 +25,4 @@ This repository contains the code used for the paper As Easy as 1, 2, 3: Behavio
   publisher = {Association for Computational Linguistics},
   year      = {2021}
 }
+```

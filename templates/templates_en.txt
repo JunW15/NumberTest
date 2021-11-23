@@ -1,0 +1,23 @@
+{"INT":["There have been [NUM] confirmed cases of COVID19 to date.",
+"CNBC reported there were at least [NUM] cases worldwide.",
+"Approximately [NUM] learners have been affected due to school closures in response to COVID-19.",
+"UNESCO estimates [NUM] learners are potentially at risk (pre-primary to upper-secondary education).",
+"[NUM] cases of MERS-CoV infection had been confirmed by laboratory tests."],
+"DEC":
+["An average of [NUM] people is infected every day due to this disease.",
+"The distance between Sydney to Washington is [NUM] miles.",
+"The genome size of the coronavirus is approximately [NUM].",
+"At this point, Rosberg was about [NUM] seconds behind his teammate.",
+"The reproduction number of this disease is [NUM]."],
+"WORD":
+["The total amount of remittance is [NUM].",
+"Case report forms were submitted to CDC for average [NUM] cases per day.",
+"As of 8 April 2020, approximately [NUM] learners have been affected due to school closures in response to COVID-19.",
+"As of December 2019, [NUM] cases of MERS-CoV infection had been confirmed by laboratory tests.",
+"They then planned an ambitious open-air concert in Tokyo, with a stage costing [NUM] dollars US."],
+"SEP":
+["An average of [NUM] people is infected every day due to this disease.",
+"The distance between Sydney to Washington is [NUM] miles.",
+"The genome size of the coronavirus is approximately [NUM].",
+"They then planned an ambitious open-air concert in Tokyo, with astage costing [NUM] dollars US.",
+"As of December 2019, [NUM] cases of MERS-CoV infection had beenconfirmed by laboratory tests."]}

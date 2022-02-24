@@ -191,7 +191,7 @@ class NumbericalChecker():
         if head_index -1 >=0:
             if sentence[head_index-1] in self.number_word_list:
                 return False
-        if tail_index +1 <=len(sentence):
+        if tail_index +1 <len(sentence):
             if not sentence[tail_index +1] in self.number_word_list:
                 if sentence[tail_index+1] == '.':
                     if tail_index+2 <len(sentence):

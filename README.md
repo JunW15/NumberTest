@@ -1,3 +1,9 @@
+# check思路：
+
+1. 生成数字的所有写法
+2. python in关键字判断（lower）
+3. 判断句子数字旁是否有其他数字。若有则不通过。
+
 # Introduction
 This repository contains the code used for the paper As Easy as 1, 2, 3: Behavioural Testing of NMT Systemsfor Numerical Translation in ACL 2021 Findings.
 
